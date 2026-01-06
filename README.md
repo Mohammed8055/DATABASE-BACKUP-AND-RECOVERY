@@ -21,3 +21,7 @@ The recovery phase is the critical counterpart to the backup, focusing on how qu
 Ultimately, the strength of a database management plan lies in the integrity of the restore process. A common pitfall in IT management is assuming that because a backup was created, it will work when needed. True resilience is only achieved through regular testing and "disaster drills," where administrators simulate a total system crash to verify that their recovery scripts and backup files are functional. By following industry standards like the 3-2-1 rule—keeping three copies of data on two different media types with one offsite—organizations can ensure that even in the face of a physical disaster or a ransomware attack, their data remains protected, accessible, and ready for restoration
 
 #OUPUT OF TASK 
+
+![Image](https://github.com/user-attachments/assets/9f3a2085-013b-466a-8715-199e436cbddf)
+
+![Image](https://github.com/user-attachments/assets/547d2177-bf03-425f-95eb-966b9d013853)
